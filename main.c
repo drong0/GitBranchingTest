@@ -12,6 +12,7 @@ INT32S main( int argc, char *argv[] )
 {
   //Eduardo create code in the space below this line.
   //
+  // Editing to simulate merge conflict - Karl  
   //
   //Wagner create code in the space below this line.
   //

@@ -7,6 +7,10 @@
  */
  
 #include <stdlib.h>
+
+#define MAJOR   0
+#define MINOR   0
+#define BUILD   1
  
 INT32S main( int argc, char *argv[] )
 {
